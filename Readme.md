@@ -2,7 +2,7 @@
 
  Breakout is an arcade game in which the player controls a paddle on the screen knocking the ball back and forth breaking the bricks.
  
- ![thumbnail](./Breakout.png)
+ ![thumbnail](./Breakout.PNG)
 
 ## BREAKOUT GAME PREVIEW
 https://github.com/user-attachments/assets/e1661713-ae2a-49df-8581-eef9327c1f49
@@ -11,6 +11,9 @@ https://github.com/user-attachments/assets/e1661713-ae2a-49df-8581-eef9327c1f49
  A player moves the paddle back and forth horizontally to hit and ricochet the ball to cause it to break the bricks on top of the screen.
  If the ball reaches the bottom of the screen it costs one life.
  The bricks are in color of yellow, green, orange, and red from bottom to top.
+
+## VISIT WEBSITE TO DOWNLOAD FOR ANDROID
+Download Breakout for android: [BREAKOUT APK](https://abhikumar45444.github.io/Breakout-App/).
 
 ## PLAY GAME ON WEB
 Checkout Game Here: [BREAKOUT](https://abhikumar45444.github.io/BREAKOUT/).
