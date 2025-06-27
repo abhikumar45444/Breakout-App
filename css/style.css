@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #7d7dc9, #5151d4);
+    background: linear-gradient(135deg, #99a1ed, #2e2ef5);
     color: #fff;
     margin: 0;
     padding: 0;
@@ -89,7 +89,7 @@ body {
     margin-top: 10px;
     font-size: 1em;
     font-weight: 300;
-    color: #3a3a44;
+    color: #2a2a31;
   }
 
   /* Responsive Styles */
