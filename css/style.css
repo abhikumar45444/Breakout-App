@@ -55,7 +55,7 @@ body {
     gap: 20px;
   }
 
-  .download-btn, .play-btn {
+  .download-btn, .play-btn, .download-tv-btn {
     background-color: #ff5722;
     color: #fff;
     text-decoration: none;
@@ -66,7 +66,7 @@ body {
   .button{
   display: block;
   margin: 10px auto;
-  padding: 1rem 2rem;
+  padding: 0.8rem 1rem;
   font-size: 1rem;
   color: #e4870f;
   border: 2px solid #e4870f;
